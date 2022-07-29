@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/eureka-server.jar
+    - target/eureka-server-git.jar
   discard-paths: yes
